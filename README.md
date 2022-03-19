@@ -8,7 +8,7 @@
 
 - 💬 My goal is to become a full stack developer
 
-- ⚡ Fun fact: I :love Manchester unitrd
+- ⚡ Fun fact: I love Manchester united
 
 
 ![](https://komarev.com/ghpvc/?username=sharifukitori)
