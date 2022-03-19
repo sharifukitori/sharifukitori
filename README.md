@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact: I :love Manchester unitrd
 
-## 😂 Here is a random joke that'll make you laugh!
 
 ![](https://komarev.com/ghpvc/?username=sharifukitori)
 
