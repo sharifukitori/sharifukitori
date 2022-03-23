@@ -14,7 +14,8 @@
 ![](https://komarev.com/ghpvc/?username=sharifukitori)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifukitori&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharifukitori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
