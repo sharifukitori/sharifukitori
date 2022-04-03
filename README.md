@@ -2,13 +2,13 @@
 
 ## This is the place where I am changing coffee to code and break things :rofl:
 
-- 🔭 I’m currently working on django project..opps it's private 😉️
+- 🔭 I’m currently working on django projects 😉️
 - 🌱 I'm python Developer.
-- 🥅 2022 Goals: Contribute more by using github and git, design web apps
+- 🥅 2022 Goals: To contribute more using git, github and design web apps
 
 - 💬 My goal is to become a full stack developer
 
-- ⚡ Fun fact: I love Manchester united
+- ⚡ Fun fact: I love Manchester united 😂️
 
 
 ![](https://komarev.com/ghpvc/?username=sharifukitori)
