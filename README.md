@@ -36,10 +36,6 @@
 
 
 
-
-  <summary> GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sharifukitori&show_icons=true&hide_border=true" />
-[twitter]: https://twitter.com/sharifukitori
-[instagram]: https://instagram.com/sharifukitori
-[linkedin]: https://linkedin.com/in/sharifukitori
+ [twitter]: https://twitter.com/sharifukitori
+ [instagram]: https://instagram.com/sharifukitori
+ [linkedin]: https://linkedin.com/in/sharifukitori
